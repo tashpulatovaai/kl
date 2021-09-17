@@ -5,14 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>kl</groupId>
-  <artifactId>kl</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>x</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>x</module>
-  </modules>
 
-  <name>kl</name>
+  <name>x</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
